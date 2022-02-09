@@ -5,13 +5,14 @@ import './index.css';
 //import Function2 from './Function2';
 //import User from './User';
 //import File from './File';
-import Construct from './Construct';
+//import Construct from './Construct';
+import Eventex from './Eventex';
 
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
- <Construct />  
+ <Eventex />  
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -3,7 +3,8 @@ export default function Eventex(){
 
     return(
         <div>
-        <button></button>
+            <h1>event</h1>
+        <button onClick={()=> document.write("Indian Army")}>Click me</button>
         </div>
     )
 }
